@@ -1,2 +1,2 @@
-# MyProject
-HCI - Head movement interface
+# HCI
+Head movement interface
